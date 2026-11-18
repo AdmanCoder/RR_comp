@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.pkl
+*.joblib
+SupeRR Selector Season 2 | Data Pack/
+ipl_json*/
+t20s_json*/
